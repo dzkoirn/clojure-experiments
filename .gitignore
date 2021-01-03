@@ -1,0 +1,17 @@
+# Directories
+lib
+classes
+target*
+api
+
+# Hidden Files
+.emacs.bmk
+.lein-deps-sum
+.lein-repl-history
+.nrepl-port
+
+# Files
+*jar
+pom.xml
+pom.xml.asc
+version.clj
